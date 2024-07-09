@@ -13,17 +13,17 @@
   },
   "dependencies": {
     "@octokit/rest": "16.43.1",
-    "axios": "0.19.0",
+    "axios": "0.28.0",
     "gravatar": "1.8.0",
-    "immer": "4.0.1",
+    "immer": "4.0.2",
     "json-to-graphql-query": "1.9.0",
     "lodash": "4.17.20",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "polished": "3.4.1",
-    "qs": "6.9.1"
+    "qs": "6.9.7"
   },
   "devDependencies": {
-    "@octokit/webhooks": "7.0.0",
+    "@octokit/webhooks": "9.26.3",
     "@types/fbemitter": "2.0.32",
     "@types/lodash": "4.14.165",
     "@types/qs": "6.9.0",
